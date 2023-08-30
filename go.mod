@@ -3,7 +3,7 @@ module github.com/douglarek/clash2singbox
 go 1.20
 
 require (
-	github.com/sagernet/sing-box v1.3.0
+	github.com/sagernet/sing-box v1.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
