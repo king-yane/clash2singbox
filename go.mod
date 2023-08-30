@@ -1,4 +1,4 @@
-module github.com/douglarek/clash2singbox
+module github.com/king-yane/clash2singbox
 
 go 1.20
 
